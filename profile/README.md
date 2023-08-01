@@ -1,5 +1,5 @@
 ## This is Alornium
-Alornium is the future of text communication.  The idea of Alornium is to standardize the communication between text inputs like SMS, MMS, e-mail, etc. and services like weather, search, news, etc.
+Alornium is the future of text communication.  The idea of Alornium is to standardize the communication between text communications like SMS, MMS, e-mail, etc. and services like weather, search, news, etc.
 # Why?
 The idea of Alornium came when making AppSMS with a team of people trying to get more out of their locked down phones.  Sending text messages is not something that can be easily locked down.  We imagined a service that could take these message inputs and outputs and standardize them.
 # Why "Alornium"?
